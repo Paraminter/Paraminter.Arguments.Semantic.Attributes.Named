@@ -1,4 +1,4 @@
-﻿namespace Paraminter.Arguments.Semantic.Type.Models;
+﻿namespace Paraminter.Arguments.Semantic.Attributes.Named.Models;
 
 using Microsoft.CodeAnalysis;
 
