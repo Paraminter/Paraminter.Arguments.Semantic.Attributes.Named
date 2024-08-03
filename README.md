@@ -1,5 +1,5 @@
 # Paraminter.Arguments.Semantic.Attributes.Named
 
-Adds semantic data about named attribute arguments to `Paraminter`.
+Defines `Paraminter` semantic named attribute argument data.
 
 See [Paraminter](https://www.github.com/Paraminter/Paraminter) for more information.
