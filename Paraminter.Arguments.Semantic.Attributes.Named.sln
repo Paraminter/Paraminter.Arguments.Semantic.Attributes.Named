@@ -10,14 +10,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Directory.Packages.props = Directory.Packages.props
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5F847161-E268-48BC-A791-61E615A91753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "src\Models\Models.csproj", "{C8D4574C-4A5E-443F-93B8-E17BE5488814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D4574C-4A5E-443F-93B8-E17BE5488814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D4574C-4A5E-443F-93B8-E17BE5488814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D4574C-4A5E-443F-93B8-E17BE5488814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D4574C-4A5E-443F-93B8-E17BE5488814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8D4574C-4A5E-443F-93B8-E17BE5488814} = {5F847161-E268-48BC-A791-61E615A91753}
 	EndGlobalSection
 EndGlobal
