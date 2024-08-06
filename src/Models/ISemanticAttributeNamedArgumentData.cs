@@ -2,7 +2,7 @@
 
 using Microsoft.CodeAnalysis;
 
-using Paraminter.Associators.Models;
+using Paraminter.Arguments.Models;
 
 /// <summary>Represents semantic data about a named attribute argument.</summary>
 public interface ISemanticAttributeNamedArgumentData
